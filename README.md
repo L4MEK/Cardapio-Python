@@ -1,4 +1,4 @@
-#​ CCardápio-Pytho
+# Cardápio Python
 
 ```sh
 Um cardápio extremamente simples. Possuí escolha para Crianças e Adultos.
